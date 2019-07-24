@@ -1,3 +1,5 @@
+// created by michael piper
+// the code is tested and trusted
 function Xamsdb(name, debug = false) {
     this.name = name
     this.debug = debug
